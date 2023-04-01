@@ -11,7 +11,7 @@
 
 Смотрим в DevTools в консоли обработку ошибок 
 
-Смотрим cookies (номер телефона может браться из cookies) - в DevTools в Application - > Cookies
+Смотрим cookies (номер телефона может браться из cookies) - в DevTools в Application - > Cookies / или C:\Users\Пользователь\AppData\Local\Google\Chrome\User Data\Default\
 
 **Валидные:**
 
